@@ -2,13 +2,12 @@
 layout: page
 title: About
 permalink: /about/
-published: false
+published: true
 ---
 
-Hi! I'm Avishek. I'm a recent graduate of the University of Virginia. I was born and raised in rural Virginia to immigrant parents. 
+Hi! I'm Avishek. I'm a recent graduate of the University of Virginia. I was born and raised in rural Virginia to immigrant parents. Growing up in a predominantly white working-class area gave me a unique perspective that I came to realise only once I arrived on Grounds. 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
